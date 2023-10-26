@@ -11,19 +11,19 @@ Absolwent studiów informatycznych na Politechnice morskiej w Szczecinie.
 # Blogi i strony tematyczne
 ........
 # Narzędzia
-Jira,Trello
-Visual Studio
-Testlink
-Gitlab
-Github
-VirtualBox
-BugMagnet
-Postman
-Mause Recorder
-BrowserStack
-Mobizen
-Xampp
-MySQL
+* Jira,Trello
+* Visual Studio
+* Testlink
+* Gitlab
+* Github
+* VirtualBox
+* BugMagnet
+* Postman
+* Mause Recorder
+* BrowserStack
+* Mobizen
+* Xampp
+* MySQL
 
 # Umiejętności miękkie
 * Komunikatywność i umiejętność praca w zespole
