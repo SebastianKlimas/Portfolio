@@ -48,7 +48,5 @@ Podstawy Python
 Umiejętność konfiguracji wirtualnych maszyn (np. Linux)
 Git
 
-# Blogi
-
 # Polecane grupy facebookowe
 .....
