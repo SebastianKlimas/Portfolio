@@ -35,18 +35,18 @@ Absolwent studiów informatycznych na Politechnice morskiej w Szczecinie.
 * Asertywny
 * Zmotywowany
 # Umiejętności Techniczne
-*Wiedza z zakresu procedur testowych i tworzenia dokumentacji testowej
-*Wiedza z zakresu sylabusa ISTQB poziomu podstawowego
-*SQl
-HTML/CSS podstawy
-Tworzenie przypadków testowych
-Zgłaszanie błędów
-Testowanie Oprogramowania
-Podstawy Devtools
-Podstawowa wiedza z zakresu programowania
-Podstawy Python
-Umiejętność konfiguracji wirtualnych maszyn (np. Linux)
-Git
+* Wiedza z zakresu procedur testowych i tworzenia dokumentacji testowej
+* Wiedza z zakresu sylabusa ISTQB poziomu podstawowego
+* SQl
+* HTML/CSS podstawy
+* Tworzenie przypadków testowych
+* Zgłaszanie błędów
+* Testowanie Oprogramowania
+* Podstawy Devtools
+* Podstawowa wiedza z zakresu programowania
+* Podstawy Python
+* Umiejętność konfiguracji wirtualnych maszyn (np. Linux)
+* Git
 
 # Polecane grupy facebookowe
 .....
