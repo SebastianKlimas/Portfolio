@@ -9,7 +9,7 @@ Absolwent studiów informatycznych na Politechnice morskiej w Szczecinie.
 # Grupy testerskie
 .....
 # Blogi i strony tematyczne
-*[testerzy.pl]((https://testerzy.pl)*
+[testerzy.pl](https://testerzy.pl)
 
 # Narzędzia
 * Jira,Trello
