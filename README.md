@@ -5,11 +5,15 @@ Jestem absolwentem Politechniki morskiej w Szczecinie o kierunku informatycznym 
 # Wykształcenie
 Absolwent studiów informatycznych na Politechnice morskiej w Szczecinie.
 # Książki techniczne
-.....
+Zawód tester - Radosław Smilgin
 # Grupy testerskie
 .....
-# Blogi i strony tematyczne
-[testerzy.pl](https://testerzy.pl)
+# Polecane blogi, strony tematyczne, strony poszerzające wiedzę.
+* [testerzy.pl](https://testerzy.pl)
+* [remigiuszbednarczyk.pl](remigiuszbednarczyk.pl)
+* [pwicherski.gitbook.io](pwicherski.gitbook.io)
+* [W3Schools](https://www.w3schools.com)
+* 
 
 # Narzędzia
 * Jira,Trello
