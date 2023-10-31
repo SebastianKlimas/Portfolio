@@ -57,7 +57,7 @@ Zawód tester - Radosław Smilgin
 * Umiejętność konfiguracji wirtualnych maszyn (np. Linux)
 * Git
   
-# Przykladowa prubka testowa
+# Przykladowa próbka testowa
 Testy aplikacji MrBuggy
 * [Przypadki testowe i bug reporty](https://drive.google.com/file/d/111HqByYYFShRm4HlqMXGjyZPfAriP2a2/view?usp=drivesdk)
 * [Test Raport](https://drive.google.com/file/d/1U_tEFwF0B1cggkfFbR4Cqf4FCmw1Pms6/view?usp=drivesdk)
