@@ -7,7 +7,10 @@ Absolwent studiów informatycznych na Politechnice morskiej w Szczecinie.
 # Książki techniczne
 Zawód tester - Radosław Smilgin
 # Grupy testerskie
-.....
+* [Testowanie oprogramowania](https://www.facebook.com/groups/TestowanieOprogramowania/?ref=share)
+* [Testowanie oprogramowania - wsparcie na starcie](https://www.facebook.com/groups/testeroprogramowania/?ref=share)
+* [Zostań testerem oprogramowania](https://www.facebook.com/groups/zostan.testerem.manualnym/?ref=share)
+
 # Polecane blogi, strony tematyczne, strony poszerzające wiedzę.
 * [testerzy.pl](https://testerzy.pl)
 * [remigiuszbednarczyk.pl](remigiuszbednarczyk.pl)
@@ -53,8 +56,4 @@ Zawód tester - Radosław Smilgin
 * Podstawy Python
 * Umiejętność konfiguracji wirtualnych maszyn (np. Linux)
 * Git
-
-# Polecane grupy facebookowe
-* [Testowanie oprogramowania](https://www.facebook.com/groups/TestowanieOprogramowania/?ref=share)
-* [Testowanie oprogramowania - wsparcie na starcie](https://www.facebook.com/groups/testeroprogramowania/?ref=share)
-* [Zostań testerem oprogramowania](https://www.facebook.com/groups/zostan.testerem.manualnym/?ref=share)
+  
