@@ -13,7 +13,8 @@ Zawód tester - Radosław Smilgin
 * [remigiuszbednarczyk.pl](remigiuszbednarczyk.pl)
 * [pwicherski.gitbook.io](pwicherski.gitbook.io)
 * [W3Schools](https://www.w3schools.com)
-* 
+* [testergier.pl](testergier.pl)
+* [Webbinary 4_testers](https://www.4testers.pl/webinar)
 
 # Narzędzia
 * Jira,Trello
@@ -54,4 +55,6 @@ Zawód tester - Radosław Smilgin
 * Git
 
 # Polecane grupy facebookowe
-.....
+* [Testowanie oprogramowania](https://www.facebook.com/groups/TestowanieOprogramowania/?ref=share)
+* [Testowanie oprogramowania - wsparcie na starcie](https://www.facebook.com/groups/testeroprogramowania/?ref=share)
+* [Zostań testerem oprogramowania](https://www.facebook.com/groups/zostan.testerem.manualnym/?ref=share)
