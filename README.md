@@ -1,7 +1,7 @@
 # Portfolio
 Moje testerskie Portoflio
 # O mnie
-Jestem absolwentem Politechniki morskiej w Szczecinie o kierunku informatycznym co pomoglo zdobyć mi fundamentalną wiedzę z szeroko pojetej informatyki w tym wytwarzania oprogramowania. Jestem testerem tak jak praktycznie każdy z nas, lecz swoją karierę zawodową wiąże z testowaniem stricte oprogramowania. Jestem zmotywowany, oraz posiadam wielkie chęci do poszerzania swojej wiedzy i doświadczenia. w wolnych chwilach dla relaksu lubie grać na pianinie lub obejrzeć mecz piłki nożnej.
+Jestem absolwentem Politechniki morskiej w Szczecinie o kierunku informatycznym co pomoglo zdobyć mi fundamentalną wiedzę z szeroko pojetej informatyki w tym wytwarzania oprogramowania. Jestem testerem tak jak praktycznie każdy z nas ponieważ życie to ciągłe testowanie, lecz swoją karierę zawodową wiąże z testowaniem stricte oprogramowania. Jestem zmotywowany, oraz posiadam wielkie chęci do poszerzania swojej wiedzy i doświadczenia. w wolnych chwilach dla relaksu lubie grać na pianinie lub obejrzeć mecz piłki nożnej.
 # Wykształcenie
 Absolwent studiów informatycznych na Politechnice morskiej w Szczecinie.
 # Książki techniczne
