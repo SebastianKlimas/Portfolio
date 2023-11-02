@@ -14,7 +14,7 @@ Zawód tester - Radosław Smilgin
 # Polecane blogi, strony tematyczne, strony poszerzające wiedzę.
 * [testerzy.pl](https://testerzy.pl)
 * [remigiuszbednarczyk.pl](remigiuszbednarczyk.pl)
-* [pwicherski.gitbook.io](pwicherski.gitbook.io)
+* [pwicherski.gitbook.io](https://pwicherski.gitbook.io/testowanie-oprogramowania/)
 * [W3Schools](https://www.w3schools.com)
 * [testergier.pl](testergier.pl)
 * [Webbinary 4_testers](https://www.4testers.pl/webinar)
