@@ -4,3 +4,4 @@
 SELECT * FROM Production.ProductCategory
 Order by Name
 ```
+![zadanie 1](![Screenshot_2](https://github.com/SebastianKlimas/Portfolio/assets/68077439/8bfb1e66-5370-43c9-98ce-077499715e49)
