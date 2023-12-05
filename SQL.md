@@ -13,7 +13,7 @@ FROM movie;
 ```
 !![image](https://github.com/SebastianKlimas/Portfolio/assets/68077439/ba28b6d7-64fd-4fb0-9544-0bf53dfe304c)
 
-### 2. Napisz zapytanie SQL aby dowiedzieć się, kiedy ukazał się film „American Beauty”. Zwróć rok premiery filmu.
+### 2. Napisz zapytanie SQL, aby dowiedzieć się, kiedy ukazał się film „American Beauty”. Zwróć rok premiery filmu.
 ```sql
 SELECT mov_year FROM movie 
 WHERE mov_title='American Beauty'
@@ -27,4 +27,7 @@ FROM movie
 WHERE mov_year = '1999'
 ```
 !![image](https://github.com/SebastianKlimas/Portfolio/assets/68077439/f31461c9-2381-4036-bdbe-66bfa1bc353c)
+
+### 4. Napisz zapytanie SQL, aby znaleźć filmy wydane przed 1999 rokiem. Zwróć tytuł filmu
+```sql
 
