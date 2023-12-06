@@ -1,5 +1,10 @@
 ## Kilka zadań związanych z SQLem.
 
+### Baza danych
+!![image](https://github.com/SebastianKlimas/Portfolio/assets/68077439/df3bfdf0-ac20-4df0-987f-82583fc01f9a)
+
+
+
 ```sql
 SELECT * FROM Production.ProductCategory
 Order by Name
