@@ -35,4 +35,35 @@ WHERE mov_year = '1999'
 
 ### 4. Napisz zapytanie SQL, aby znaleźć filmy wydane przed 1999 rokiem. Zwróć tytuł filmu
 ```sql
+...
+```
 
+### 5. Napisz zapytanie SQL w celu znalezienia nazwy wszystkich filmów i recenzentów na jednej liście.
+```sql
+...
+```
+
+### 6. Napisz zapytanie SQL, aby znaleźć recenzentów, którzy ocenili film na conajmniej 7 gwiazdek. Zwróć nazwę recenzenta.
+```sql
+...
+```
+
+### 7. Napisz zapytanie SQL aby znaleźć filmy bez żadnej oceny. Zwróć wartość filmu.
+```sql
+...
+```
+
+### 8. Napisz zapytanie SQL, aby znaleźć filmy o identyfikatorze 905, 907 lub 917. Zwróć tytuł filmu.
+```sql
+...
+```
+
+### 9. Napisz apytanie SQL, aby znaleźć tytuły filmów zawierające słowo „Boogie Nights”. Posortuj zestaw wyników w kolejności rosnącej według roku filmu. Zwróć identyfikator filmu, tytuł filmu i rok premiery filmu.
+```sql
+...
+```
+
+### 10. Napisz zapytanie SQL, aby znaleźć aktorów o imieniu „Woody” i nazwisku „Allen”. Zwróć identyfikator aktora.
+```sql
+...
+```
