@@ -1,7 +1,7 @@
 ## Kilka zadań związanych z SQLem.
 
 ### Baza danych
-!![image](https://github.com/SebastianKlimas/Portfolio/assets/68077439/df3bfdf0-ac20-4df0-987f-82583fc01f9a)
+![image](https://github.com/SebastianKlimas/Portfolio/assets/68077439/df3bfdf0-ac20-4df0-987f-82583fc01f9a)
 
 
 
@@ -16,14 +16,14 @@ Order by Name
 SELECT mov_title, mov_year
 FROM movie;
 ```
-!![image](https://github.com/SebastianKlimas/Portfolio/assets/68077439/ba28b6d7-64fd-4fb0-9544-0bf53dfe304c)
+![image](https://github.com/SebastianKlimas/Portfolio/assets/68077439/ba28b6d7-64fd-4fb0-9544-0bf53dfe304c)
 
 ### 2. Napisz zapytanie SQL, aby dowiedzieć się, kiedy ukazał się film „American Beauty”. Zwróć rok premiery filmu.
 ```sql
 SELECT mov_year FROM movie 
 WHERE mov_title='American Beauty'
 ```
-!![image](https://github.com/SebastianKlimas/Portfolio/assets/68077439/4bb040c2-a3c8-4597-9397-2892de68a71c)
+![image](https://github.com/SebastianKlimas/Portfolio/assets/68077439/4bb040c2-a3c8-4597-9397-2892de68a71c)
 
 ### 3. Napisz zapytanie SQL, aby znaleźć film wydany w 1999 roku. Zwróć tytuł filmu.
 ```sql
@@ -31,7 +31,7 @@ SELECT mov_title, mov_year
 FROM movie
 WHERE mov_year = '1999'
 ```
-!![image](https://github.com/SebastianKlimas/Portfolio/assets/68077439/f31461c9-2381-4036-bdbe-66bfa1bc353c)
+![image](https://github.com/SebastianKlimas/Portfolio/assets/68077439/f31461c9-2381-4036-bdbe-66bfa1bc353c)
 
 ### 4. Napisz zapytanie SQL, aby znaleźć filmy wydane przed 1999 rokiem. Zwróć tytuł filmu
 ```sql
