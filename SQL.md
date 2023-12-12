@@ -3,14 +3,7 @@
 ### Baza danych
 ![image](https://github.com/SebastianKlimas/Portfolio/assets/68077439/df3bfdf0-ac20-4df0-987f-82583fc01f9a)
 
-
-
-```sql
-SELECT * FROM Production.ProductCategory
-Order by Name;
-```
-![Screenshot_2](https://github.com/SebastianKlimas/Portfolio/assets/68077439/8bfb1e66-5370-43c9-98ce-077499715e49)
-
++
 ### 1. Napisz zapytanie SQL zwracające Tytuł filmu i rok premiery filmu.
 ```sql
 SELECT mov_title, mov_year
